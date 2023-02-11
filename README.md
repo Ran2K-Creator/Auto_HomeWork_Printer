@@ -1,3 +1,10 @@
+![Screenshot 2023-02-11 221344](https://user-images.githubusercontent.com/65309980/218279267-6224e175-df46-46d8-b0fb-84645b31587c.png)
+
+
+
+
+
+
 # Auto_HomeWork_Printer
 Python program that automates the boring process of answering and writing the homework.
 It uses AI to generate the text, and creates a .gcode file from the generated text, so you can print it in your notebook!
