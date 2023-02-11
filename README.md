@@ -14,6 +14,8 @@ It uses AI to generate the text, and creates a .gcode file from the generated te
 
 <b>--> Now you're finally, ready to go!</b>
 
+<b>--> Visit the installation guide in the main menu of this repo</b>
+
 
 
 
