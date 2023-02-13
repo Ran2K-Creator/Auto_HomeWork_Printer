@@ -26,9 +26,10 @@ It uses AI to generate the text, and creates a .gcode file from the generated te
 
 
 
+![v2](https://user-images.githubusercontent.com/65309980/218425077-3759b68f-8da2-4ba9-b9e1-cb3a11b007f4.png)
 
 
-![Screenshot 2023-02-11 214446](https://user-images.githubusercontent.com/65309980/218278158-868c603d-736e-481d-974e-c574bda715a2.png)
+
 
 
 
