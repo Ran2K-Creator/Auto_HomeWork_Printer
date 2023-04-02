@@ -13,7 +13,7 @@ options.add_argument('-headless')
 # create webdriver object
 driver = webdriver.Firefox()
 
-# get geeksforgeeks.org
+
 driver.get("https://3dwriter.io/")
 
 question = input("input your homework question: ")
