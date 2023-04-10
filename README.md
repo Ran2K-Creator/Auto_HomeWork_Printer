@@ -34,6 +34,6 @@ It uses AI to generate the text, and creates a .gcode file from the generated te
 
 
 
-<b>SEPCIAL THANKS:
+<b>SPECIAL THANKS:
 terry3041 - pyChatGPT
 Selenium - Jason Huggins</b>
